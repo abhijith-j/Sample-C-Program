@@ -11,7 +11,7 @@ void main()
     while(num>0)
     {
         int rem=num%10;
-        sum+=pow(rem,3);
+        sum+=rem*rem*rem;
         num=num/10;
     }
     if(sum==numCopy)
