@@ -13,6 +13,6 @@ void main(){
         }
     }
     for(int k=0;k<5;k++){
-        printf("%d ",a[k]);
+        printf("&d ",a[k]);
     }
 }
