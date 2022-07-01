@@ -5,7 +5,7 @@ void main(){
     int array[4]={1,4,5,7};
     int product=0;
     for(int k=0;k<4;k++){
-        product==product*array[k];
+        product=product*array[k];
     }
-    printf("\n%",product);
+    printf("\n%d",product);
 }
