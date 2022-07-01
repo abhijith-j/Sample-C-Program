@@ -19,3 +19,5 @@ void main()
     else
         printf("%d is not an armstrong number",numCopy);
 }
+
+//end of program
