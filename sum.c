@@ -8,5 +8,5 @@ void main(){
     for(int k=0;k<4;k++){
         sum= sum+array[k];
     }
-    printf("\n%d",s);
+    printf("\n%d",sum);
 }
