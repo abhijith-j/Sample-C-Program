@@ -4,9 +4,9 @@
 void main(){
     int array[4]={2,3,4,5};
 
-    int sum=0;
+    int sum;
     for(int k=0;k<4;k++){
         sum= sum+array[k];
     }
-    printf("\n%d",sum);
+    printf("\n%d",s);
 }
