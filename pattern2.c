@@ -1,5 +1,11 @@
 //Question 2
 //Program to print star pattern
+//*
+//**
+//***
+//****
+//*****
+//******
 #include<stdio.h>
 void main()
 {
